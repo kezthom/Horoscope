@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=MedievalSharp&display=swap');
+
+
+body{
+    width: 40%;
+    height:fit-content;
+    padding: 10px;
+    margin: 300px;
+    color: goldenrod;
+    border: 3px solid goldenrod;
+    font-family: 'MedivalSharp';
+    background-image:url('night.avif');
+}
+button{
+    background-color: goldenrod;
+    color: rgb(26, 49, 26);
+}
